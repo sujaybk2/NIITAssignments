@@ -1,4 +1,4 @@
-package Course3;
+package Course3.Sprint1MC1OnlineBanking;
 
 /*
 Attributes of the SavingsAccount class:
