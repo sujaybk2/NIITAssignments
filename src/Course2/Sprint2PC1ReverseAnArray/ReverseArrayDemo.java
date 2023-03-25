@@ -1,4 +1,4 @@
-package Course2;
+package Course2.Sprint2PC1ReverseAnArray;
 import java.util.Arrays;
 
 public class ReverseArrayDemo {
