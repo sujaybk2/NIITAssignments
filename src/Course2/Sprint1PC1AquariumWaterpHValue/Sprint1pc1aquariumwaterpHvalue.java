@@ -1,4 +1,4 @@
-package Course2;
+package Course2.Sprint1PC1AquariumWaterpHValue;
 import java.util.Scanner;
 public class Sprint1pc1aquariumwaterpHvalue {
     public static void main(String [] args){

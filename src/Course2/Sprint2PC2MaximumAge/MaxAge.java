@@ -1,4 +1,4 @@
-package Course2;
+package Course2.Sprint2PC2MaximumAge;
 
 public class MaxAge {
 

@@ -1,4 +1,4 @@
-package Course2;
+package Course1.Sprint2Practice1EnquiryForm;
 
 public class Sprint2Practice1EnquiryForm {
     public static void main(String[] args) {

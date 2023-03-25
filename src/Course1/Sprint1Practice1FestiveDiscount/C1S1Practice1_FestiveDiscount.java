@@ -1,4 +1,4 @@
-package Course1;
+package Course1.Sprint1Practice1FestiveDiscount;
 
 /*
 Algorithm:
