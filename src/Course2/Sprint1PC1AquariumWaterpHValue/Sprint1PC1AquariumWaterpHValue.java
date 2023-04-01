@@ -1,6 +1,6 @@
 package Course2.Sprint1PC1AquariumWaterpHValue;
 import java.util.Scanner;
-public class Sprint1pc1aquariumwaterpHvalue {
+public class Sprint1PC1AquariumWaterpHValue {
     public static void main(String [] args){
         float phValue;
         Scanner scannerObj = new Scanner(System.in);

@@ -18,7 +18,7 @@ public class PizzaOrder {
         float beverageTotal = noOfBeveragesOrdered*beveragePrice;
         float totalBill = pizzaTotal + GbTotal + beverageTotal;
         boolean check = totalBill>=100;
-        float discount = (float) (totalBill - (totalBill*0.1));
+        float discount = (float) (totalBill - (totalBill * 0.1));
         System.out.println("--------------------------------");
         System.out.println("     Customer Details");
         System.out.println("--------------------------------");

@@ -2,26 +2,27 @@ package Course1.Sprint1Practice2BankAccountBalance;
 
 /*
 Algorithm:
-Step 1- Start
-Step 2- Display the National bank user's total balance
-Step 3- Debit $50 from the user's balance once every 90 days
-Step 4- Notify the customer of the auto-debit
-Step 5- If the user's balance is <100, freeze the account
-Step 6- Else, allow the user to continue banking
-Step 7- End
+
+Step 1: Start
+Step 2: Input userBankBalance // the user's bank balance
+Step 3: Calculate userBankBalance = userBankBalance - 50
+Step 4: Check if userBankBalance < 100. If true, proceed to step 5, else go to step 6.
+Step 5: Print message "Account is frozen." Jump to step 7.
+Step 6: Print userBankBalance
+Step 7: Stop
+
+
+
 
 Pseudocode:
+
 Begin
-	Get input
-	Debit $50 from balance
-	If (balance <100)
-		Begin
-			Freeze Account
-		End
-	Else
-		Begin
-			No action necessary
-		End
+        input userBankBalance
+        userBankBalance = userBankBalance - 50
+        if userBankBalance < 100 {
+        print "Account is frozen"}
+        else {
+        print userBankBalance}
 End
 
 
